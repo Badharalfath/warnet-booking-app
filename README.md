@@ -1,6 +1,6 @@
 # Warnet Booking Planner
 
-Local web app for WhatsApp bookings. One screen shows PC occupancy, billing, and status.
+Local web app for Warnet bookings. One screen shows PC occupancy, billing, and status.
 
 ## Run
 
